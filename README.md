@@ -3,6 +3,9 @@
 Juego clasico de conecta 4.
 - Se creo una interfaz para la mejor jugabilidad:
 
+<div id="img" align="center">
+  <image src="https://github.com/andresFLZ/Conecta_4/blob/main/img/Interfaz.PNG" alt="Interfaz">
+</div>
 
 ## Tecnologías usadas
 
